@@ -1,4 +1,4 @@
-# techo-nicaragua-android
+# TECHO Nicaragua Android
 Aplicación móvil de TECHO Nicaragua para Android
 
 **Desarrolladores**:
